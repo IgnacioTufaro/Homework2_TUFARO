@@ -97,6 +97,7 @@ class CuentaCorriente : public CuentaBancaria{
             if(cant > CuentaBancaria::balance){
                 cout<<"No hay suficiente dinero en su cuenta corriente para retirar el monto de $"<<cant<<endl;
                 if(caja_asociada!=nullptr){
+                    //sacar la opcion de elegir
                     string opt;
                     cout<<"¿Desea hacer el retiro igual desde su caja de ahorros? (si/no)";
                     cin>>opt;
