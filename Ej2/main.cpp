@@ -4,6 +4,7 @@
 #include "classes.hpp"
 #include "utils.hpp"
 
+//COMPILACION
 // g++ Ej2/main.cpp Ej2/classes.cpp Ej2/utils.cpp -o Ej2/main && ./Ej2/main
 
 int main(){

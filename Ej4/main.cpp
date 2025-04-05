@@ -2,7 +2,7 @@
 #include "classes.hpp"
 
 using namespace std;
-
+//COMPILACION
 //g++ Ej4/main.cpp Ej4/classes.cpp -o Ej4/main && ./Ej4/main
 
 int main(){

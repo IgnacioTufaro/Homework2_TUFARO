@@ -1,6 +1,7 @@
 #include <iostream>
 #include "class.hpp"
 
+//COMPILACION:
 //g++ Ej1/main.cpp Ej1/class.cpp -o Ej1/main && ./Ej1/main
 
 void show_menu1(){
